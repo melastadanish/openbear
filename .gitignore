@@ -1,0 +1,5 @@
+.DS_Store
+.obsidian/
+.claude/
+Products info/*.MP4
+Products info/**/*.MP4
