@@ -1,19 +1,23 @@
 # Reusable-Sections.md — Open Bear Copy Blocks
 > Pull from this file when building any page. Do not rewrite these blocks — they have already passed the Three-Pass system.
 > When a block is updated, note the date and re-run all three passes.
+>
+> **Component names in this file use Slice Library shortcodes** — e.g. `[global-announcement]`, `[trust-stats]`.
+> Cross-reference `Slice-Library.md` for field definitions and variation specs.
 
 ---
 
 ## How to Use This File
 
-1. Find the section you need by component name
-2. Copy it into your page `.md` file
+1. Find the block you need by its Slice Library shortcode
+2. Copy the content fields into your page `.md` file using the format: `shortcode: content`
 3. Only edit the parts marked `[CUSTOMIZE]`
 4. Do not change the parts that are not marked
+5. Numbers must always be embedded in sentences — never as standalone chip values
 
 ---
 
-## BLOCK: `announcement-bar`
+## BLOCK: `[global-announcement]`
 
 ```
 Limited Stock Available | Call Now: +86 198 7941 5670
@@ -23,7 +27,7 @@ Limited Stock Available | Call Now: +86 198 7941 5670
 
 ---
 
-## BLOCK: `nav`
+## BLOCK: `[global-nav]`
 
 **Links:**
 - Home
@@ -38,7 +42,7 @@ Limited Stock Available | Call Now: +86 198 7941 5670
 
 ---
 
-## BLOCK: `page-hero` — Products Archive
+## BLOCK: `[hero-page·var-a]` — Products Archive
 
 **Eyebrow:** OUR PRODUCTS
 
@@ -55,7 +59,7 @@ Limited Stock Available | Call Now: +86 198 7941 5670
 
 ---
 
-## BLOCK: `section-technical` — How a Gate Operator System Works
+## BLOCK: `[content-how-it-works·var-a]` — How a Gate Operator System Works
 
 **Eyebrow:** TECHNICAL INSIGHT
 
@@ -82,28 +86,28 @@ All Open Bear operators support battery backup modules. With power outages commo
 
 ---
 
-## BLOCK: `section-buyer-advice` — 5 Mistakes When Specifying a Gate Operator
+## BLOCK: `[content-buyer-advice·var-a]` — 5 Mistakes When Buying a Gate Opener
 
 **Eyebrow:** BUYER'S ADVICE
 
-**H2:** 5 Mistakes Distributors Make When Specifying a Gate Operator
+**H2:** 5 Mistakes to Avoid When Buying a Gate Opener
 
-**Subtitle:** After shipping 50,000 units a year to markets across North America, Australia, and Southeast Asia — we've seen every specification error. Here's what to avoid.
+**Subtitle:** After shipping 50,000 units a year to homeowners and property managers across North America, Australia, and Southeast Asia — we've seen every buying mistake. Here's what to avoid.
 
 **Mistake 1 — Buying on price alone**
-Cheap motors use plastic gears and unshielded electronics. In heat and dust, they fail within 1–2 years. A quality operator costs more upfront but lasts 10–20 years — and your customer never calls back about a failure.
+Cheap motors use plastic gears and unshielded electronics. In heat and dust, they fail within 1–2 years. A quality opener costs more upfront but runs reliably for 10–20 years — and never leaves you stranded.
 
 **Mistake 2 — Ignoring gate weight**
-Every motor has a rated load. Exceed it and you strain the gearbox and burn the motor within months. Always weigh the gate before specifying — especially for heavy-duty applications.
+Every motor has a rated load. Exceed it and the gearbox strains and the motor burns out within months. Weigh your gate before you buy — the right model handles your gate's actual weight, not an estimate.
 
 **Mistake 3 — Skipping safety sensors**
-Photocells and safety edges are not optional extras. A gate that closes on a person or a vehicle is a liability. All Open Bear operators support safety sensor integration as standard.
+Obstacle detection and safety edges are not optional extras. A gate that closes on a person, a child, or a pet is a serious risk. All Open Bear openers support safety sensor integration as standard.
 
-**Mistake 4 — Choosing the wrong operator type**
-A swing gate operator cannot drive a sliding gate. Underground operators require a specific driveway depth. Getting this wrong means a complete reinstall at full cost. Specify the gate type before the operator.
+**Mistake 4 — Choosing the wrong opener type**
+A swing gate opener cannot drive a sliding gate. Getting this wrong means a full replacement at full cost. Match the opener type to your gate before you order.
 
-**Mistake 5 — Omitting battery backup**
-A gate with no battery backup traps your customer's car during a power cut. Specify backup power on every installation — residential or commercial.
+**Mistake 5 — No battery backup**
+A gate with no battery backup locks you out — or traps your car — during a power cut. Battery backup is standard on all Open Bear models. Do not leave it out.
 
 **Image:** `factory-production-line.jpg`
 *Alt text: Open Bear production line showing gate operators in assembly*
@@ -112,7 +116,7 @@ A gate with no battery backup traps your customer's car during a power cut. Spec
 
 ---
 
-## BLOCK: `comparison-table` — Full Product Range
+## BLOCK: `[specs-compare·var-a]` — Full Product Range
 
 **Eyebrow:** FULL RANGE COMPARISON
 
@@ -136,7 +140,7 @@ A gate with no battery backup traps your customer's car during a power cut. Spec
 
 ---
 
-## BLOCK: `section-cta-form` — Contact Form CTA (Two-Column)
+## BLOCK: `[cta-form·var-b]` — Contact Form CTA (Two-Column)
 
 ```
 DISPLAYS AS:
@@ -174,7 +178,7 @@ Our team can confirm load ratings, advise on gate type, and match the right oper
 
 ---
 
-## BLOCK: `section-cta` — Archive Page Version
+## BLOCK: `[cta-banner·var-b]` — Archive Page Version
 
 **H2:** Can't Find What You're Looking For?
 
@@ -187,7 +191,7 @@ Our team can confirm load ratings, advise on gate type, and match the right oper
 
 ---
 
-## BLOCK: `section-cta` — Single Product Page Version
+## BLOCK: `[cta-banner·var-b]` — Single Product Page Version
 
 **H2:** Ready to Order or Need More Detail?
 
@@ -198,7 +202,7 @@ Our team can confirm load ratings, advise on gate type, and match the right oper
 
 ---
 
-## BLOCK: `section-cta` — Homepage Version
+## BLOCK: `[cta-banner·var-b]` — Homepage Version
 
 **H2:** Built in Shenzhen. Shipped to Your Market.
 
@@ -211,7 +215,7 @@ Our team can confirm load ratings, advise on gate type, and match the right oper
 
 ---
 
-## BLOCK: `footer`
+## BLOCK: `[global-footer]`
 
 **Column 1 — Brand**
 Open Bear
@@ -245,13 +249,13 @@ openbear2026@gmail.com
 - Privacy Policy → `/privacy-policy`
 
 **Footer bottom bar:**
-Copyright © 2026 HEIXIONG (Black Bear Gate Systems). All rights reserved. | Secure · Reliable · Automatic.
+Copyright © 2026 Open Bear (Shenzhen Black Bear Smart Technology Co., Ltd.). All rights reserved. | Secure · Reliable · Automatic.
 
 *Last reviewed: 2026-05-28*
 
 ---
 
-## BLOCK: `section-stats` — Company Numbers
+## BLOCK: `[trust-stats·var-b]` — Company Numbers
 
 **Eyebrow:** BY THE NUMBERS
 
@@ -266,7 +270,7 @@ Copyright © 2026 HEIXIONG (Black Bear Gate Systems). All rights reserved. | Sec
 
 ---
 
-## BLOCK: `section-features` — Core Technology Advantages
+## BLOCK: `[features-cards·var-b]` — Core Technology Advantages
 
 **Eyebrow:** WHY OPEN BEAR
 
@@ -290,7 +294,7 @@ Before any unit leaves the factory, it is tested on an oscilloscope — waveform
 
 ---
 
-## BLOCK: `breadcrumb` — Pattern
+## BLOCK: `breadcrumb` — Pattern *(sub-component, not a standalone slice)*
 
 ```
 Home > [CUSTOMIZE: Section] > [CUSTOMIZE: Page Name]
@@ -303,7 +307,7 @@ Examples:
 
 ---
 
-## BLOCK: `product-hero-specs-strip` — 4-stat strip pattern
+## BLOCK: `[specs-strip·var-a]` — 4-stat strip pattern *(used inside `[hero-product]`)*
 
 Appears just below the product name in single product pages.
 Pull the 4 most compelling specs for each product from `CLIENT-DATA-MAP.md`.
@@ -315,7 +319,7 @@ Example format (Heavy-Duty Swing):
 
 ---
 
-## BLOCK: `meta-tags` — Pattern
+## BLOCK: `meta-tags` — Pattern *(written in SEO block of each page file, not a slice)*
 
 ```
 Meta Title: [Primary Keyword] | Open Bear  (max 60 characters)

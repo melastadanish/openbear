@@ -75,12 +75,13 @@ Category filter pages sit between Tier 2 and Tier 3 — they are sub-pages of `/
 ## Full Silo Map
 
 ```
-TIER 1 — HOMEPAGE
+TIER 1 — HOMEPAGE ✅ WRITTEN
 openbear.com/
 Keyword: automatic gate opener
 Vol: 3,800–4,770/mo | KD: 2
 Links DOWN to: all Tier 2 pages
 Receives links FROM: all Tier 2 and Tier 3 pages
+Internal links out: /gate-operators + all 6 product pages + /contact (8 total)
 ─────────────────────────────────────────────────────
          │
 TIER 2 — CATEGORY & SOLUTION PAGES (flat slugs)
@@ -184,7 +185,7 @@ TIER 3 — BLOG (supports Tier 1 and Tier 2)
 
 | Page | URL | Primary Keyword | Tier |
 |---|---|---|---|
-| Homepage | `/` | automatic gate opener | 1 |
+| Homepage | `/` | automatic gate opener | 1 | ✅ Written |
 | Products Archive | `/gate-operators` | gate operators | 2 |
 | Sliding Category Filter | `/gate-operators/sliding` | sliding gate operator | 2.5 |
 | Swing Category Filter | `/gate-operators/swing` | swing gate operator | 2.5 |
@@ -210,8 +211,9 @@ TIER 3 — BLOG (supports Tier 1 and Tier 2)
 ### Tier 1
 
 **Homepage (`/`)**
-- Title: `Automatic Gate Opener Manufacturer | Open Bear` *(46 chars)*
-- Description: `Factory-direct automatic gate openers and gate operators — sliding, swing, and barrier. DC24V safety voltage. 50,000 units/year. Ships globally.` *(147 chars)*
+- Title: `Automatic Gate Opener | Open Bear` *(33 chars)*
+- Description: `Find the right automatic gate opener for your property. DC24V safety voltage, 60 dB quiet motors, and remote control built in. Ships globally.` *(144 chars)*
+- Status: ✅ Written — Pages/home.md · Pass A: 9.3/10 · AI score: 9%
 
 ---
 

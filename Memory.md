@@ -11,19 +11,45 @@
 | Project files setup | ✅ Complete |
 | SILO-Structure.md | ✅ Complete |
 | CLIENT-DATA-MAP.md | ✅ Complete |
-| Claude.md (agent rules) | ✅ Complete |
+| CLAUDE.md (agent rules) | ✅ Complete — 7-step workflow, consumer audience |
 | Design.md | ✅ Complete |
-| Reusable-Sections.md | ✅ Complete |
+| Slice-Library.md | ✅ Complete — 41 slices, 77 variations |
+| Reusable-Sections.md | ✅ Complete — synced to Slice Library shortcodes |
+| Quality-Check-System.md | ✅ Complete — full execution method for all checks |
+| Master-Writing-System.md | ✅ Complete — reusable across projects |
 | Products archive page | ✅ Complete (Pages/products-archive.md) |
 | PSEO templates | ✅ Complete (4 templates in Design.md) |
 | PSEO sample pages | ✅ Complete (8 pages in Pages/) |
-| Homepage | ⏳ Awaiting Ahrefs keyword data |
-| Individual product pages | ⏳ Queued |
 | Keyword clusters | ✅ Complete (see Keyword Clusters/) |
+| Homepage | ✅ Complete — Pages/home.md · Pass A 9.3/10 · AI 9% |
+| Individual product pages | ⏳ Queued — sliding gate operator is next |
+| Solutions pages | ⏳ Queued |
+| About page | ⏳ Queued |
 
 ---
 
 ## Session Log
+
+### 2026-05-30 — Session 4
+
+**Work completed:**
+- Audience changed from B2B (distributors/installers) to end consumers (homeowners, property managers)
+- Spec chip format removed across all files — numbers now embedded naturally in sentences
+- CLAUDE.md fully rewritten — 7-step workflow (Step 0 Brief → Step 1 Outline → Step 2 Section writing → Step 3 Consumer journey read → Step 4 Three passes → Step 5 Differentiation check → Step 6 Checklist)
+- Quality-Check-System.md created — full execution method for all 5 Tier 1 checks and all 3 passes including AI-written score signal method
+- Master-Writing-System.md created — standalone reusable system for other projects
+- Slice-Library.md updated — [trust-supply] replaced with [trust-markets] on homepage assembly map · [trust-markets] slice added · chip fields removed from [features-proof-list] and [features-cards]
+- Reusable-Sections.md updated — all component names synced to Slice Library shortcodes · buyer advice rewritten for consumer audience · footer copyright fixed (HEIXIONG → Open Bear)
+- expert-profile.md updated — B2B references removed · objection handling expanded to 8 objections · product card structure updated
+- Homepage written — Pages/home.md · 7 sections · Pass A 9.3/10 · Pass B 3 fixes · Pass C all 6 tests passed · AI score 9% · all 5 differentiators present · all 8 objections answered
+- SILO-Structure.md updated — homepage marked written, meta tags updated to consumer version, internal link count recorded
+
+**Decisions made:**
+- Audience is end consumers — not B2B. All future pages written for homeowners and property owners.
+- Numbers live inside sentences — never as standalone chip labels
+- 7-step workflow is now mandatory for all pages — no shortcuts
+- [trust-markets] replaces [trust-supply] on homepage — consumer regions strip, not B2B supply terms
+- Homepage does not need Ahrefs data to proceed — keyword cluster file had sufficient data (KD 2, clear primary keyword)
 
 ### 2026-05-28 — Session 3
 
@@ -72,9 +98,11 @@
 |---|---|---|
 | Content in `.md` only, no HTML | Developer handles templates; we handle words | 2026-05-28 |
 | Three-pass copywriting system | AI-written content scores poorly — human voice required | 2026-05-28 |
-| B2B tone — no consumer language | Buyers are agents, distributors, installers — not homeowners | 2026-05-28 |
+| Audience changed to end consumers | User decision — homeowners and property owners, not B2B | 2026-05-30 |
 | All specs from CLIENT-DATA-MAP.md only | Prevents invented or inaccurate specs | 2026-05-28 |
-| Product archive page comes before homepage | Homepage waiting on Ahrefs data | 2026-05-28 |
+| Numbers embedded in sentences, not chips | Chips feel mechanical — sentences read naturally | 2026-05-30 |
+| 7-step workflow mandatory for all pages | Brief + outline before writing prevents wasted copy | 2026-05-30 |
+| [trust-markets] on homepage, not [trust-supply] | Supply terms are B2B — homepage audience is consumer | 2026-05-30 |
 
 ---
 
@@ -82,14 +110,19 @@
 
 **Priority order:**
 
-1. `Pages/products-archive.md` — Write full archive page content using Three-Pass system
-2. `Pages/product-sliding-door-operator.md` — Highest SEO priority product
-3. `Pages/product-heavy-duty-swing.md` — Second SEO priority
-4. `Pages/product-side-mounted-swing.md` — Third SEO priority
-5. `Pages/home.md` — After Ahrefs data received
-6. Remaining product pages
-7. Solutions pages
-8. About page
+1. `Pages/product-sliding-door-operator.md` — Highest SEO priority product (vol 5,000+/mo)
+2. `Pages/product-heavy-duty-swing.md` — Second SEO priority
+3. `Pages/product-side-mounted-swing.md` — Third SEO priority
+4. `Pages/solutions-residential.md` — Residential gate opener
+5. `Pages/solutions-commercial.md` — Commercial gate operator
+6. `Pages/solutions-industrial.md` — Industrial gate operator
+7. Remaining product pages (floor swing, top-mounted, barrier gate)
+8. `Pages/about.md`
+
+**Outstanding from client:**
+- Product photos for Side-Mounted Swing (shipping box only currently)
+- Product photos for Floor Swing
+- Hero background image for homepage (gate in motion, property setting)
 
 ---
 

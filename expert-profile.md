@@ -18,10 +18,10 @@
 
 ### What We're Selling
 - Automatic gate opener systems — sliding, swing (side-mounted, floor, top-mounted, heavy-duty), barrier gate
-- Residential, commercial, and industrial applications
+- Residential, commercial, and light industrial applications
 - Smart connectivity — Bluetooth, WiFi, remote, keypad, intercom compatible
 - DC24V servo motor platform — safety and performance differentiator
-- Factory-direct from Shenzhen — B2B supply available alongside end-user positioning
+- Factory-direct from Shenzhen — sold to end consumers and property owners globally
 
 ### Buyer Psychology
 - **Safety driver**: No electric shock risk, obstacle detection, child/pet safety
@@ -34,10 +34,10 @@
 | Segment | Pain Point | Messaging Angle |
 |---|---|---|
 | Homeowners | Security, convenience, curb appeal | Outcome: silent, safe, controlled from anywhere |
-| Commercial property owners | Vehicle flow, access management | Performance + reliability at high duty cycle |
-| Contractors & installers | Easy to install, easy to programme, no callbacks | Installer-friendly design, full documentation |
+| Residential property owners | Family safety, noise, phone control | DC24V safe voltage, quiet motor, app-compatible |
+| Commercial property managers | Vehicle flow, access management, reliability | Heavy duty performance, low maintenance |
 | Rural & farm owners | Heavy gates, no mains power, harsh climate | DC24V + solar compatible, extreme temp range |
-| Dealers & distributors | Reliable supply, margin, factory pricing | One section only — not the main page audience |
+| Contractors & installers | Easy to install, full documentation, no callbacks | Installer-friendly — secondary audience only |
 
 ---
 
@@ -50,16 +50,14 @@ Every claim follows this exact structure — no exceptions:
 
 ```
 OUTCOME HEADLINE (5–8 words)
-One sentence connecting the experience to the number.
-Spec chip — the raw number alone.
+One sentence connecting the experience to the number — with the number embedded naturally in the sentence.
 ```
 
 **Example applied to Open Bear:**
 > Silent Every Time.
 > Every motor in the range runs at or below 60 dB — quieter than a normal conversation.
-> *≤60 dB · All models*
 
-The outcome earns attention. The sentence earns belief. The spec chip closes it. Nothing more.
+The outcome earns attention. The sentence earns belief by embedding the exact number naturally — not as a separate label. Numbers must always live inside a readable sentence, never floated alone.
 
 ### Headline Rules
 - State what the buyer **experiences or gains** — never what the product **has**
@@ -76,8 +74,8 @@ The outcome earns attention. The sentence earns belief. The spec chip closes it.
 
 ### Proof Rules
 - Every benefit needs one spec number behind it — not a paragraph, one number
-- Spec numbers appear as chips or short labels — not buried in body copy
-- Numbers are exact: "≤60 dB" not "very quiet" — "650 Nm" not "powerful torque"
+- Numbers are embedded naturally inside the sentence — not floated as separate labels or chips
+- Numbers are exact: "runs at just 60 dB" not "very quiet" — "delivers 650 Nm of torque" not "powerful torque"
 - Proof comes after the outcome, never before
 
 ### Banned Words & Phrases
@@ -104,8 +102,7 @@ Every CTA tells the user exactly what they get when they click:
 ### Product Card Structure (NICE Method)
 ```
 One-line positioning statement — what makes this model the right choice
-Key outcome sentence — what it does for the user
-Spec chips — 3 max, exact numbers only
+Key outcome sentence — what it does for the user, with spec number embedded naturally
 CTA — specific action
 ```
 
@@ -131,34 +128,37 @@ Use for: Technology section, FAQ answers, objection handling
 Use for: Why-section cards, product feature highlights
 - Feature: DC24V servo motor
 - Advantage: Runs below the electric shock threshold
-- Benefit: Safe to touch — for installers and homeowners
+- Benefit: Safe to touch — for children, pets, and anyone near the gate
 
 ### AIDA (Attention → Interest → Desire → Action)
 Use for: Hero section, product page intros
 - Attention: Outcome headline
-- Interest: One-sentence proof
-- Desire: Spec chips + use case image
+- Interest: One-sentence proof with spec number embedded
+- Desire: Key benefit + use case image
 - Action: Specific CTA
 
 ### StoryBrand
 Use for: Overall page narrative
-- Customer is the hero (homeowner, installer, property manager)
-- Gate opener is the tool
-- Open Bear is the guide — the manufacturer who knows the product
+- Customer is the hero (homeowner, property manager, rural owner)
+- Gate opener is the tool that solves their problem
+- Open Bear is the guide — the manufacturer with the product and the knowledge
 
 ---
 
 ## Objection Handling Copy
 
-| Objection | Response (NICE style — outcome first, spec as proof) |
+Every response follows the proof formula — outcome first, spec number embedded in the sentence.
+
+| Objection | Response |
 |---|---|
-| "Will it shock someone?" | Safe to touch. 24V DC — below the electric shock threshold. |
-| "Will it work in my weather?" | -35°C to 70°C. Same performance in a Canadian winter or an Australian summer. |
-| "What if the power cuts out?" | Battery backup standard. The gate keeps working when the grid doesn't. |
-| "Is it too loud?" | ≤60 dB. Quieter than a normal conversation. |
-| "Will it handle my heavy gate?" | Up to 1,800 kg. Up to 650 Nm. Moves the gates most openers refuse. |
-| "Is it hard to install?" | Ships complete — motor, controller, remotes, all hardware. Ready to commission on-site. |
-| "Can I control it from my phone?" | Bluetooth + WiFi built in on the side-mounted model. Smart access compatible across the range. |
+| "Will someone get an electric shock?" | Safe to touch — even mid-cycle. The motor runs on 24V DC, well below the voltage where electric shock becomes a risk. |
+| "Will it work in my weather?" | Tested from -35°C to 70°C. The same unit performs in a Canadian winter and an Australian summer without modification. |
+| "What if the power cuts out?" | Battery backup is standard. The gate keeps opening and closing when the grid goes down. |
+| "Is it too loud?" | Runs at just 60 dB — quieter than a normal conversation, at any gate weight. |
+| "Will it handle my heavy gate?" | Handles gates up to 1,800 kg with 650 Nm of torque — the weight range that covers most residential and commercial gates. |
+| "Is it hard to install?" | Ships complete — motor, controller, remotes, and all hardware in one box. A qualified installer has everything they need on arrival. |
+| "Can I control it from my phone?" | Bluetooth and WiFi built in on the side-mounted model. Works with most smart home platforms without an additional hub. |
+| "Is it safe around my children and pets?" | Obstacle detection stops the gate the instant it contacts anything in its path. Combined with 24V DC voltage, the system is safe around people and animals. |
 
 ---
 
@@ -208,3 +208,8 @@ These must all be corrected in the new copy:
 | 2026-05-28 | Profile created, niche defined as automatic gate openers |
 | 2026-05-28 | NICE copywriting style analysed and added as primary copy reference |
 | 2026-05-28 | Current website problems documented for correction |
+| 2026-05-30 | Audience changed from B2B to end consumers |
+| 2026-05-30 | Spec chip format removed — numbers now embedded in sentences |
+| 2026-05-30 | Full 7-step writing workflow written into CLAUDE.md |
+| 2026-05-30 | Quality-Check-System.md created with full execution method for all checks |
+| 2026-05-30 | Objection handling copy expanded to 8 objections with full proof formula responses |
