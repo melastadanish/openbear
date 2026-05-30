@@ -193,8 +193,8 @@ TIER 3 — BLOG (supports Tier 1 and Tier 2)
 | Commercial Solutions | `/commercial-gate-operator` | commercial gate operator | 2 |
 | Residential Solutions | `/residential-gate-opener` | residential gate opener | 2 |
 | Industrial Solutions | `/industrial-gate-operator` | industrial gate operator | 2 |
-| Sliding Gate Operator | `/sliding-gate-operator` | sliding gate operator | 3 |
-| Heavy-Duty Swing | `/heavy-duty-swing-gate-operator` | heavy duty swing gate operator | 3 |
+| Sliding Gate Opener | `/sliding-gate-operator` | sliding gate opener | 3 | ✅ Written |
+| Heavy Duty Swing Gate Opener | `/heavy-duty-swing-gate-operator` | heavy duty swing gate opener | 3 | ✅ Written |
 | Side-Mounted Swing | `/side-mounted-swing-door-operator` | side mounted swing door operator | 3 |
 | Floor Swing | `/floor-swing-door-operator` | floor swing door operator | 3 |
 | Top-Mounted Swing | `/top-mounted-swing-door-operator` | top mounted swing door operator | 3 |

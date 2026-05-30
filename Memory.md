@@ -22,7 +22,9 @@
 | PSEO sample pages | ✅ Complete (8 pages in Pages/) |
 | Keyword clusters | ✅ Complete (see Keyword Clusters/) |
 | Homepage | ✅ Complete — Pages/home.md · Pass A 9.3/10 · AI 9% |
-| Individual product pages | ⏳ Queued — sliding gate operator is next |
+| Sliding gate opener page | ✅ Complete — Pages/product-sliding-door-operator.md · Pass A 9.2/10 · AI 11% |
+| Heavy duty swing gate opener page | ✅ Complete — Pages/product-heavy-duty-swing.md · Pass A 9.0/10 · AI 10% |
+| Individual product pages | ⏳ Queued — side-mounted swing is next |
 | Solutions pages | ⏳ Queued |
 | About page | ⏳ Queued |
 
@@ -110,8 +112,8 @@
 
 **Priority order:**
 
-1. `Pages/product-sliding-door-operator.md` — Highest SEO priority product (vol 5,000+/mo)
-2. `Pages/product-heavy-duty-swing.md` — Second SEO priority
+1. `Pages/product-heavy-duty-swing.md` — Next SEO priority
+2. `Pages/product-side-mounted-swing.md` — Third SEO priority
 3. `Pages/product-side-mounted-swing.md` — Third SEO priority
 4. `Pages/solutions-residential.md` — Residential gate opener
 5. `Pages/solutions-commercial.md` — Commercial gate operator

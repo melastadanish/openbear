@@ -3,3 +3,19 @@
 .claude/
 Products info/*.MP4
 Products info/**/*.MP4
+
+# Images and video
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.svg
+*.ico
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.avi
+*.mkv
+*.pdf
