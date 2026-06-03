@@ -275,9 +275,11 @@ Apply the "So what?" method and the "which means that" bridge (see Section 4).
 
 ---
 
-### Tier 2 — Three-Pass System
+### Tier 2 — Four-Pass System
 
-Run after the full page is compiled. The three passes refine a clean page — not rescue a broken one.
+> **MANDATORY RULE: All four passes (A, B, C, D) must be run together on every page before content is shown to the user. Never show content after Pass A or Pass C alone. The sequence is: write full page → Pass A → Pass B → Pass D → Pass C → show final content. Do not present intermediate drafts.**
+
+Run after the full page is compiled. The four passes refine a clean page — not rescue a broken one.
 
 #### Pass A — Full-Page Quality Audit
 Read the full page once. Mark every sentence that fails any Tier 1 check. Score each of six dimensions using failure count.

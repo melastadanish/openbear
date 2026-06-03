@@ -108,12 +108,13 @@
 
 **H2:** 6.4 kg. 24V DC. Mounts to Most Gateposts in Hours.
 
-**Body:** At 6.4 kg and 355 mm long, the unit mounts cleanly to most gateposts without the bulky bracket work required by heavier operators. The motor runs on 24V DC — well below the voltage where electric shock becomes a risk. The operating range runs from -25°C to 70°C, covering most residential climates worldwide.
+**Body:** At 6.4 kg and 355 mm long, the unit mounts cleanly to most gateposts without the bulky bracket work required by heavier operators. The motor runs on 24V DC — well below the voltage where electric shock becomes a risk. The 15 kg load-bearing metal case is dustproof and waterproof — built for exposed gate posts in rain, dust, and direct weather. The operating range runs from -25°C to 70°C, covering most residential climates worldwide.
 
 **Features:**
 - 6.4 kg total packaged weight — lightest mounting footprint in the swing range
 - 24V DC safety voltage — safe to touch during operation
 - -25°C to 70°C operating range
+- 15 kg load-bearing metal case — dustproof and waterproof
 - Indoor or sheltered outdoor installation
 - Fixed base: 355.5 × 89 mm — minimal wall footprint
 

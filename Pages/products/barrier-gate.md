@@ -1,224 +1,265 @@
 # Barrier Gate Operator
 
-## Page Checklist
-
-### Brief & Planning
-- [x] Page brief written and approved
-- [x] Target consumer confirmed — parking facility managers, property developers, logistics operators, gated community managers
-- [x] Keyword slot map approved
-- [x] Draft meta title approved — 37/60 chars
-- [x] Draft meta description approved — 153/155 chars
-- [x] Outline written with keyword map
-- [x] Outline approved
-
-### Content
-- [x] [hero-product·var-a] — written, Tier 1 checks passed, keyword checked, approved
-- [x] [specs-strip·var-a] — written, Tier 1 checks passed, keyword checked, approved
-- [x] [features-proof-list·var-a] — written, Tier 1 checks passed, keyword checked, approved
-- [x] [specs-table·var-a] — written, Tier 1 checks passed, keyword checked, approved
-- [x] [content-faq·var-a] — written, Tier 1 checks passed, keyword checked, approved
-- [x] [cta-banner·var-b] — customised from Reusable-Sections.md product version
-- [x] Consumer journey read complete — question order, flow, CTA readiness, objections confirmed
-- [x] Full page compiled into Pages/
-
-### SEO
-- [x] Primary keyword in H1 (exact match)
-- [x] Primary keyword in first sentence of subtext
-- [x] Primary keyword in mid-page H2 (FAQ section)
-- [x] Primary keyword in body paragraph (features section)
-- [x] Primary keyword in image alt text (hero image)
-- [x] Primary keyword in CTA H2
-- [x] Primary keyword in meta description (first 10 words)
-- [x] Secondary keywords placed naturally — high speed barrier gate · automatic barrier gate · parking gate opener · boom gate · boom barrier
-- [x] Meta title final — 37/60 chars
-- [x] Meta description final — 153/155 chars
-- [x] Internal links — minimum 2 (see Internal Links section)
-- [x] Anchor text uses exact destination keyword
-- [ ] SILO-Structure.md updated with this page's links
-
-### Quality
-- [x] Pass A complete — 9.5/10 overall
-- [x] Pass B complete — 1 failure fixed — no client data gaps
-- [x] Pass C complete — all 6 tests passed
-- [x] AI-written score — 9%
-- [x] Differentiation check — minimum 2 differentiators present
-
-### Final
-- [x] Developer notes added
-- [x] Page saved to Pages/product-barrier-gate.md
-- [ ] Memory.md updated with page status
-
-**Page status: need improvements**
+**Status:** DRAFT — PENDING APPROVAL  
+**Last updated:** 2026-06-03  
+**Primary keyword:** barrier gate operator  
+**Meta title:** Barrier Gate Operator | Open Bear (37 chars)  
+**Meta description:** The Open Bear barrier gate operator opens in 0.7 seconds and is rated for 10,000,000 cycles. 24V DC. Arms up to 6m. -35°C to 70°C. Ships factory-direct. (153 chars)
 
 ---
 
-## SEO
+## 1. Hero
 
-- **Meta Title:** Barrier Gate Operator | Open Bear
-- **Meta Description:** The Open Bear barrier gate operator opens in 0.7 seconds and is rated for 10,000,000 cycles. DC24V. Arms up to 6m. -35°C to 70°C. Ships factory-direct.
-- **Primary Keyword:** barrier gate operator
-- **Secondary Keywords:** high speed barrier gate · automatic barrier gate · parking gate opener · boom gate · boom barrier · access control gate · barrier gate
+**Breadcrumb:** Home > Gate Operators > Barrier Gate Operator
 
----
+**Eyebrow:** BARRIER GATE OPERATOR
 
-## Sections
+**H1:** The Barrier Gate Operator Rated for 10,000,000 Cycles.
 
----
+**Subtext:** This barrier gate operator completes a full trip in as little as 0.7 seconds and handles arms up to 6 metres long. Rated for 10 million operating cycles — built for parking facilities, logistics sites, and high-traffic access points that open hundreds of times a day without stopping.
 
-### [hero-product·var-a]
+**CTA Primary:** Get a Quote → /contact  
+**CTA Secondary:** Download Spec Sheet → /downloads/barrier-gate-operator-spec.pdf
 
-```
-breadcrumb: Home > Gate Operators > Barrier Gate Operator
+**Image:** barrier-gate-operator-product-kit.jpg  
+**Image alt:** Open Bear barrier gate operator — servo motor, spring mechanism rail, arm housing, and control driver
 
-eyebrow: BARRIER GATE OPERATOR
+**Specs strip (4 stats, Brand Red background):**
 
-h1: The Barrier Gate Operator Rated for 10,000,000 Cycles.
-
-subtext: This barrier gate operator completes a full trip in as little as 0.7 seconds and handles arms up to 6 metres long. Rated for 10 million operating cycles — built for parking facilities and high-traffic access points that open hundreds of times a day.
-
-cta-primary-label: Get a Quote
-cta-primary-url: /contact
-
-cta-secondary-label: Download Spec Sheet
-cta-secondary-url: /downloads/barrier-gate-operator-spec.pdf
-
-image: barrier-gate-operator-product-kit.jpg
-image-alt: Open Bear barrier gate operator — servo motor, spring mechanism rail, arm housing, control driver
-```
+| Stat | Label |
+|---|---|
+| 0.7s | Min trip time |
+| 10,000,000 | Rated cycles |
+| 6 m | Max arm length |
+| -35°C to 70°C | Operating temperature |
 
 ---
 
-### [specs-strip·var-a]
+## 2. 10 Million Cycles. No Replacement Needed.
 
-```
-stat-1-number: 0.7s
-stat-1-label: Min trip time (carbon fiber arm)
+**Layout:** Image left · Text right  
+**Image:** barrier-gate-operator-cycles.jpg  
+**Image alt:** Barrier gate operator arm in motion — high cycle rated mechanism for parking facility
 
-stat-2-number: 10,000,000
-stat-2-label: Rated operating cycles
+**Eyebrow:** BUILT TO LAST
 
-stat-3-number: 6m
-stat-3-label: Max arm length
+**H2:** 10,000,000 Cycles. At 500 Trips a Day — That's 54 Years.
 
-stat-4-number: -35°C to 70°C
-stat-4-label: Operating temperature
-```
+**Body:** A parking facility running 500 trips a day takes 54 years to reach 10 million cycles. A logistics gate running 1,000 trips a day takes 27. This barrier gate operator is rated beyond the lifespan of the site it is installed on. The mean cycles between failures (MCBF) is rated at 2,000,000 — meaning the mechanism is designed to run 2 million cycles between any service event.
 
----
-
-### [features-proof-list·var-a]
-
-```
-eyebrow: WHAT'S INSIDE
-h2: The High Speed Barrier Gate Built for Access Points That Never Stop.
-
-row-1-title: 10 Million Cycles — No Replacement Needed
-row-1-sentence: Rated for 10,000,000 operating cycles. A car park that opens 500 times a day takes 54 years to reach that number. The barrier gate operator outlasts the facility.
-
-row-2-title: Opens in 0.7 Seconds
-row-2-sentence: With a carbon fiber arm, the barrier gate operator completes a full trip in 0.7 seconds. Vehicles don't stop. Traffic moves. Queue time drops.
-
-row-3-title: Arms Up to 6 Metres
-row-3-sentence: Supports straight arms up to 6m and fence arms up to 5m — wide enough to cover dual-lane entrances, loading bays, and toll-style access points.
-
-row-4-title: Safe at 24 Volts
-row-4-sentence: The motor runs on 24V DC — well below the voltage where electric shock becomes a risk. Maintenance teams work around the mechanism safely, even under power.
-
-row-5-title: Any Climate. No Variants.
-row-5-sentence: Operating range runs from -35°C to 70°C. The same barrier gate operator that handles Siberian winters works in Southeast Asian summers without any configuration change.
-```
+**Stats:**
+- ≥10,000,000 life cycles — rated beyond facility lifespan
+- ≥2,000,000 MCBF — mean cycles between failures
+- 300W servo motor — 3,000 rpm precision drive
+- Spring mechanism — arm folds on vehicle impact, motor protected
 
 ---
 
-### [specs-table·var-a]
+## 3. 0.7 Seconds. Traffic Keeps Moving.
 
-```
-eyebrow: FULL SPECIFICATIONS
-h2: Barrier Gate Operator — Complete Spec Table
-subtitle: Every specification verified against factory test data. All figures represent the standard high-speed configuration.
+**Layout:** Text left · Image right  
+**Image:** barrier-gate-operator-speed.jpg  
+**Image alt:** Barrier gate arm rising at full speed — 0.7 second trip time with carbon fiber arm
 
-table:
-| Specification         | Value                              |
-|-----------------------|------------------------------------|
-| Motor voltage         | 24V DC                             |
-| Rated power           | 300W                               |
-| Rated current         | 12.5A                              |
-| Motor speed           | 3,000 rpm                          |
-| Min trip time         | 0.7s (carbon fiber arm)            |
-| Adjustable trip time  | 0.7–6s (carbon fiber) · 0.9–6s (aluminium arm) |
-| MCBF                  | ≥2,000,000 cycles                  |
-| Life cycles           | ≥10,000,000 cycles                 |
-| Max arm length        | 6m (straight arm) · 5m (fence arm) |
-| Operating temp        | -35°C to 70°C                      |
-| Running noise         | ≤60 dB                             |
-| Operating humidity    | ≤95% non-condensing                |
-| Max altitude          | 2,000m                             |
-| Temperature rise      | ≤15°C                              |
-| Body dimensions       | 300 × 270 × 616 mm                 |
-```
+**Eyebrow:** SPEED
+
+**H2:** 0.7 Seconds Per Trip. Vehicles Don't Stop.
+
+**Body:** With a carbon fiber arm fitted, the barrier gate operator completes a full trip — arm up or arm down — in 0.7 seconds. Vehicles approach and the gate is already rising. The trip time is adjustable from 0.7 to 6 seconds on the carbon fiber arm and 0.9 to 6 seconds on the aluminium arm — set once to match your site's speed requirements. Straight arms reach up to 6 metres, fence-style arms up to 5 metres.
+
+**Arm options:**
+
+| Arm Type | Min Trip Time | Max Trip Time | Max Length |
+|---|---|---|---|
+| Carbon fiber | 0.7s | 6s | 6m straight |
+| Aluminium | 0.9s | 6s | 5m fence |
 
 ---
 
-### [content-faq·var-a]
+## 4. Smart Access
 
-```
-eyebrow: COMMON QUESTIONS
-h2: What People Ask Before Buying a Barrier Gate Operator
+**Layout:** Image left · Text right  
+**Image:** barrier-gate-operator-access-methods.jpg  
+**Image alt:** Barrier gate access methods — button, IC card, microwave sensor, remote control, face machine
 
-q1: How many times a day can it cycle?
-a1: There is no daily cycle limit. The unit is rated for 10,000,000 total operating cycles — at 500 trips a day, that takes over 54 years to reach. It is designed for continuous, high-frequency use at parking facilities, logistics sites, and toll-style access points.
+**Eyebrow:** SMART ACCESS
 
-q2: What is the difference between the carbon fiber and aluminium arm?
-a2: The carbon fiber arm achieves a minimum trip time of 0.7 seconds. The aluminium arm starts at 0.9 seconds. Both are adjustable up to 6 seconds. If trip speed matters for your traffic volume, specify the carbon fiber arm when you enquire.
+**H2:** Five Ways to Trigger the Gate. One Controller.
 
-q3: How long an arm can it handle?
-a3: Straight arms up to 6 metres. Fence-style arms up to 5 metres. That covers most single and dual-lane entrance configurations. If your access point requires a longer arm, talk to our team before ordering.
+**Body:** The controller connects to every major access method — press a button, tap an IC card, walk or drive through a microwave sensor, use a remote control, or connect a face recognition terminal. Every method works through the same controller. Configure one or several simultaneously to match your site's traffic flow and security setup.
 
-q4: What happens if a vehicle drives through while the arm is closing?
-a4: The arm is designed to fold on contact — the spring mechanism absorbs the impact without damaging the motor or drive unit. The operator resets and continues normal operation. This protects the mechanism in drive-off and tailgating situations.
-
-q5: Does it work through a power cut?
-a5: The controller supports battery backup connection. During a power cut, the arm can be configured to hold its position, open automatically, or continue normal operation on backup power — depending on your access control requirements. Ask our team about compatible backup options.
-
-q6: Is it suitable for outdoor installation in all climates?
-a6: The operating range is -35°C to 70°C with humidity up to 95% non-condensing. It covers cold winters in Northern Europe and North America, hot and humid conditions in Southeast Asia and the Middle East, and high-altitude sites up to 2,000m.
-```
+**Access methods (icon strip):**
+- Button
+- IC Card
+- Microwave Sensor
+- Remote Control
+- Face Machine
 
 ---
 
-### [cta-banner·var-b] — Product Version
+## 5. Built for Any Conditions.
 
-```
-h2: Ready to Order the Barrier Gate Operator?
+**Layout:** Text left · Image right  
+**Image:** barrier-gate-operator-outdoor.jpg  
+**Image alt:** Barrier gate operator installed at outdoor parking facility entrance — all-climate rated
 
-body: Our engineers can confirm arm length, trip speed, and access control integration options for your site before you order.
+**Eyebrow:** ALL CONDITIONS
 
-cta-primary-label: Get a Quote
-cta-primary-url: /get-a-quote?product=barrier-gate-operator
+**H2:** 24V DC. -35°C to 70°C. Up to 2,000m Altitude.
 
-cta-secondary-label: Download Spec Sheet
-cta-secondary-url: /downloads/barrier-gate-operator-spec.pdf
-```
+**Body:** The motor runs on 24V DC — maintenance teams work around the mechanism safely, even under power. The operating range covers -35°C to 70°C with humidity up to 95% non-condensing — the same unit installs in a Norwegian car park and a Singapore logistics hub without modification. Rated for sites up to 2,000 metres above sea level. If a vehicle drives through while the arm is closing, the spring mechanism absorbs the impact without damaging the motor — the operator resets and continues normal operation.
+
+**Features:**
+- 24V DC safety voltage — safe to work around under power
+- -35°C to 70°C operating range — no climate variants
+- ≤95% humidity rated — non-condensing
+- Up to 2,000m altitude
+- Spring mechanism — arm folds on impact, motor fully protected
+- ≤60 dB running noise — quiet at full cycle rate
+
+---
+
+## 6. What's in the Box
+
+**Eyebrow:** WHAT'S IN THE BOX
+
+**H2:** Everything You Need. One Kit. Ready to Install.
+
+**Body:** Every Open Bear barrier gate operator ships as a complete kit. Nothing needs to be sourced separately before installation day — open the box and the job can start.
+
+**Kit contents:**
+
+| Item | Detail |
+|---|---|
+| Servo motor unit | Orange/black servo motor — 300W, 24V DC |
+| Spring mechanism rail | Black spring rail — arm mounting and safety fold system |
+| Arm housing | White housing cover |
+| Control driver board | Programmable controller — speed, access method inputs |
+| Power supply | Included |
+| Remote controls | 2× RF remotes included |
+| English manual | Installation guide, wiring diagram, parameter table |
+
+**Note for developer:** Display as a full kit flat-lay on dark or neutral background — the orange/black servo motor and white arm housing are the visual anchor. Match the product photography style.
+
+---
+
+## 7. Full Specifications
+
+**Eyebrow:** FULL SPECIFICATIONS
+
+**H2:** Barrier Gate Operator — Complete Spec Sheet
+
+**Subtitle:** All figures verified against factory documentation. One platform — arm type and trip speed selected at order stage.
+
+| Specification | Value |
+|---|---|
+| Rated operating voltage | 24V DC |
+| Rated power | 300W |
+| Rated current | 12.5A |
+| Motor speed | 3,000 rpm |
+| Min trip time — carbon fiber arm | 0.7s |
+| Min trip time — aluminium arm | 0.9s |
+| Adjustable trip time | 0.7–6s (carbon fiber) · 0.9–6s (aluminium) |
+| Max arm length | ≤6m straight arm · ≤5m fence arm |
+| MCBF | ≥2,000,000 cycles |
+| Life cycles | ≥10,000,000 cycles |
+| Running noise | ≤60 dB |
+| Operating ambient temperature | -35°C to 70°C |
+| Operating humidity | ≤95% non-condensing |
+| Max altitude | 2,000m |
+| Temperature rise | ≤15°C |
+| Controller dimensions | 176.6 × 103 × 25 mm |
+| Body dimensions | 300 × 270 × 616 mm |
+
+---
+
+## 8. Why Choose Open Bear
+
+**Eyebrow:** WHY OPEN BEAR
+
+**H2:** Six Reasons Buyers Choose Open Bear.
+
+**Layout:** 3 columns × 2 rows card grid. Light background `#FAFAFA`.
+
+**Card 1 — Safe to Touch**  
+The motor runs on 24V DC — well below the voltage where electric shock becomes a risk. Maintenance teams work around it safely, even under power.
+
+**Card 2 — Any Climate. Same Performance.**  
+Every model runs from -35°C to 70°C. The same unit works in a Norwegian winter and a Southeast Asian summer without modification.
+
+**Card 3 — Tested Before It Ships**  
+Every unit is tested individually on motor signal equipment before it leaves the factory — checked under full load, not sampled from the batch.
+
+**Card 4 — Quiet at Full Load**  
+Every motor in the range runs at or below 60 dB — quieter than a normal conversation, even at full cycle frequency.
+
+**Card 5 — Full Documentation Included**  
+Setup starts the moment the kit arrives. Every order includes English manuals, wiring diagrams, and parameter tables — nothing to chase down separately.
+
+**Card 6 — Built In-House, Start to Finish**  
+Designed and built by a 25-person in-house team in Shenzhen — covering R&D, production, and quality. When something needs solving, it gets solved at the factory, not passed to a third party.
+
+---
+
+## 9. FAQ
+
+**Eyebrow:** COMMON QUESTIONS
+
+**H2:** What People Ask Before Buying a Barrier Gate Operator
+
+**Q1: How many times a day can it cycle?**  
+There is no daily limit. The unit is rated for 10,000,000 total operating cycles — at 500 trips a day, that takes over 54 years to reach. It is designed for continuous, high-frequency use at parking facilities, logistics sites, and toll-style access points.
+
+**Q2: Carbon fiber arm or aluminium arm — which should I choose?**  
+If trip speed matters for your traffic volume, choose carbon fiber — it achieves a minimum of 0.7 seconds per trip versus 0.9 seconds for aluminium. Both are adjustable up to 6 seconds. Both support the same maximum arm lengths. Specify your preference when you enquire and our team will confirm availability.
+
+**Q3: What happens if a vehicle drives through while the arm is closing?**  
+The spring mechanism absorbs the impact — the arm folds on contact without damaging the motor or drive unit. The operator resets and continues normal operation. This protects the mechanism in drive-off and tailgating situations without requiring a service call.
+
+**Q4: How long an arm can it handle?**  
+Straight arms up to 6 metres. Fence-style arms up to 5 metres. That covers most single and dual-lane entrance configurations. If your access point requires a longer span, speak to our team before ordering.
+
+**Q5: Does it work through a power cut?**  
+The controller supports battery backup connection. During a power cut, the arm can be configured to hold position, open automatically, or continue normal operation on backup power — depending on your access control requirements. Ask our team about compatible backup options.
+
+**Q6: Is it suitable for outdoor installation in all climates?**  
+The operating range is -35°C to 70°C with humidity up to 95% non-condensing. It covers cold winters in Northern Europe and North America, hot and humid conditions in Southeast Asia and the Middle East, and high-altitude sites up to 2,000m above sea level.
+
+---
+
+## 10. CTA
+
+**H2:** Ready to Order the Right Barrier Gate Operator?
+
+**Body:** Our team can confirm arm type, trip speed, and access control integration options for your site — and get you a direct factory quote. No middlemen. No markup.
+
+**CTA Primary:** Get a Quote → /contact  
+**CTA Secondary:** Download Spec Sheet → /downloads/barrier-gate-operator-spec.pdf
 
 ---
 
 ## Internal Links
 
-| Destination | Anchor Text | Location on Page |
+| Destination | Anchor Text | Location |
 |---|---|---|
-| /gate-operators | gate operators | breadcrumb |
-| /sliding-gate-operator | sliding gate operator | cross-link — alternative for heavy access |
-| /contact | Get a Quote | hero CTA primary |
+| /gate-operators | gate operators | Breadcrumb |
+| /sliding-gate-opener | sliding gate opener | Related products strip |
+| /heavy-duty-swing-gate-operator | Heavy-Duty Swing Gate Opener | Related products strip |
 
 ---
 
 ## Notes for Developer
 
-- Hero: show full kit — motor unit, spring mechanism rail, arm housing, control driver. Dark or neutral background to show the orange/black servo clearly.
-- Specs strip: 4 stats — trip time, cycle count, arm length, temperature. Brand Red background, white text.
-- Features list: 5-row proof list. Icons left, copy right. Alternating light/white rows.
-- Specs table: single configuration. Dual arm specs in one row where noted. Clean bordered table.
-- FAQ: accordion. 6 questions. Expanded on desktop, collapsed on mobile.
-- CTA: dark background `#1A1A1A`. Primary Brand Red button. Ghost outline secondary.
-- Breadcrumb: Home > Gate Operators > Barrier Gate Operator
-- Note: "Boom gate" and "boom barrier" are common terms in Australia and Southeast Asia. Consider adding these as alt terms in the page meta or a small copy note for regional SEO.
+- **Hero:** Full kit image — show servo motor, spring rail, arm housing, and controller together. Dark or neutral background to show the orange/black servo clearly.
+- **Specs strip:** 4 stats on Brand Red background — trip time, cycle count, arm length, temperature.
+- **Cycles section (2):** Infographic-style visual preferred — cycle count or lifespan comparison. Product unit acceptable fallback.
+- **Speed section (3):** Arm-in-motion shot preferred. Comparison table embedded in text column — two rows, four columns.
+- **Smart access (4):** Same 5-method icon strip as other product pages.
+- **All conditions (5):** Outdoor installation shot — parking facility or logistics entrance preferred.
+- **What's in the Box (6):** Kit flat-lay on dark/neutral background — orange motor is the visual anchor. Component list on left.
+- **Specs table (7):** Note dual arm specs on trip time rows. Desktop: standard. Mobile: card-style stacked.
+- **Why Choose Open Bear (8):** 3×2 card grid on `#FAFAFA` background.
+- **FAQ (9):** 6 Q&A pairs. Accordion on mobile, stacked on desktop.
+- **CTA (10):** Dark `#1A1A1A` background. Primary button Brand Red. Ghost white secondary.
+- **Related products strip:** Below CTA — link to /sliding-gate-opener and /heavy-duty-swing-gate-operator.
+- **Regional note:** "Boom gate" and "boom barrier" are common terms in Australia and Southeast Asia — consider adding as alt terms in meta keywords for regional SEO.

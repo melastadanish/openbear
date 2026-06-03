@@ -1,224 +1,275 @@
 # Top Mounted Swing Door Operator
 
-## Page Checklist
-
-### Brief & Planning
-- [x] Page brief written and approved
-- [x] Target consumer confirmed — commercial or residential property owner with light swing doors, glass doors, or office entrances
-- [x] Keyword slot map approved
-- [x] Draft meta title approved — 44/60 chars
-- [x] Draft meta description approved — 151/155 chars
-- [x] Outline written with keyword map
-- [x] Outline approved
-
-### Content
-- [x] [hero-product·var-a] — written, Tier 1 checks passed, keyword checked, approved
-- [x] [specs-strip·var-a] — written, Tier 1 checks passed, keyword checked, approved
-- [x] [features-proof-list·var-a] — written, Tier 1 checks passed, keyword checked, approved
-- [x] [specs-table·var-a] — written, Tier 1 checks passed, keyword checked, approved
-- [x] [content-faq·var-a] — written, Tier 1 checks passed, keyword checked, approved
-- [x] [cta-banner·var-b] — customised from Reusable-Sections.md product version
-- [x] Consumer journey read complete — question order, flow, CTA readiness, objections confirmed
-- [x] Full page compiled into Pages/
-
-### SEO
-- [x] Primary keyword in H1 (exact match)
-- [x] Primary keyword in first sentence of subtext
-- [x] Primary keyword in mid-page H2 (FAQ section)
-- [x] Primary keyword in body paragraph (features section)
-- [x] Primary keyword in image alt text (hero image)
-- [x] Primary keyword in CTA H2
-- [x] Primary keyword in meta description (first 10 words)
-- [x] Secondary keywords placed naturally — swing gate opener · overhead swing gate opener · swing door operator
-- [x] Meta title final — 44/60 chars
-- [x] Meta description final — 151/155 chars
-- [x] Internal links — minimum 2 (see Internal Links section)
-- [x] Anchor text uses exact destination keyword
-- [ ] SILO-Structure.md updated with this page's links
-
-### Quality
-- [x] Pass A complete — 9.3/10 overall
-- [x] Pass B complete — 2 failures fixed — no client data gaps
-- [x] Pass C complete — all 6 tests passed
-- [x] AI-written score — 10%
-- [x] Differentiation check — minimum 2 differentiators present
-
-### Final
-- [x] Developer notes added
-- [x] Page saved to Pages/product-top-mounted-swing.md
-- [ ] Memory.md updated with page status
-
-**Page status: need improvements
-
+**Status:** DRAFT — PENDING APPROVAL  
+**Last updated:** 2026-06-03  
+**Primary keyword:** top mounted swing door operator  
+**Meta title:** Top Mounted Swing Door Operator | Open Bear (44 chars)  
+**Meta description:** The Open Bear top mounted swing door operator weighs just 5.3 kg and handles doors up to 200 kg. Slim aluminium profile. 24V DC. Ships complete as a kit. (152 chars)
 
 ---
 
-## SEO
+## 1. Hero
 
-- **Meta Title:** Top Mounted Swing Door Operator | Open Bear
-- **Meta Description:** The Open Bear top mounted swing door operator weighs 5.3 kg and handles doors up to 200 kg. Slim aluminium profile. DC24V. Ships complete as a kit.
-- **Primary Keyword:** top mounted swing door operator
-- **Secondary Keywords:** swing gate opener · overhead swing gate opener · swing door operator · automatic swing gate · aluminium gate opener
+**Breadcrumb:** Home > Gate Operators > Top Mounted Swing Door Operator
 
----
+**Eyebrow:** TOP MOUNTED SWING DOOR OPERATOR
 
-## Sections
+**H1:** The Top Mounted Swing Door Operator That Weighs Just 5.3 kg.
 
----
+**Subtext:** This top mounted swing door operator is the lightest unit in the Open Bear range. The slim aluminium rail profile mounts above the door frame, handles doors up to 200 kg and 2 m wide, and ships complete with controller, remotes, and all hardware. Five access methods built in from day one.
 
-### [hero-product·var-a]
+**CTA Primary:** Get a Quote → /contact  
+**CTA Secondary:** Download Spec Sheet → /downloads/top-mounted-swing-door-operator-spec.pdf
 
-```
-breadcrumb: Home > Gate Operators > Top Mounted Swing Door Operator
+**Image:** top-mounted-swing-door-operator-product.jpg  
+**Image alt:** Open Bear top mounted swing door operator — slim brushed aluminium rail profile
 
-eyebrow: SWING DOOR OPERATOR
+**Specs strip (4 stats, Brand Red background):**
 
-h1: The Top Mounted Swing Door Operator That Weighs 5.3 kg.
-
-subtext: This top mounted swing door operator is the lightest in the Open Bear range at 5.3 kg. The slim aluminium rail profile mounts above the door frame and handles doors up to 200 kg — nothing visible from the front once installed.
-
-cta-primary-label: Get a Quote
-cta-primary-url: /contact
-
-cta-secondary-label: Download Spec Sheet
-cta-secondary-url: /downloads/top-mounted-swing-operator-spec.pdf
-
-image: top-mounted-swing-operator-product.jpg
-image-alt: Open Bear top mounted swing door operator — slim aluminium rail profile
-```
+| Stat | Label |
+|---|---|
+| 5.3 kg | Lightest in range |
+| 200 kg | Max door weight |
+| 2 m | Max door leaf length |
+| ≤60 dB | Running noise |
 
 ---
 
-### [specs-strip·var-a]
+## 2. Slim Profile. Clean Installation.
 
-```
-stat-1-number: 5.3 kg
-stat-1-label: Equipment weight — lightest in range
+**Layout:** Image left · Text right  
+**Image:** top-mounted-swing-operator-profile.jpg  
+**Image alt:** Top mounted swing door operator slim aluminium rail mounted above door frame
 
-stat-2-number: 200 kg
-stat-2-label: Max door weight
+**Eyebrow:** SLIM ALUMINIUM PROFILE
 
-stat-3-number: 2m
-stat-3-label: Max door leaf length
+**H2:** 5.3 kg. Mounts Above the Frame. Invisible from the Front.
 
-stat-4-number: ≤60 dB
-stat-4-label: Running noise
-```
+**Body:** The slim aluminium extrusion housing runs along the top of the door frame — visible from the side, but not from the front. At 5.3 kg, it is the lightest motor in the Open Bear swing range and puts less strain on the mounting bracket and frame than any other model. At 330 mm long and just 85 mm wide, it fits above most standard commercial and residential door frames without modification.
 
----
-
-### [features-proof-list·var-a]
-
-```
-eyebrow: WHAT'S INSIDE
-h2: The Swing Gate Opener Built for Clean Installations on Light-to-Medium Doors.
-
-row-1-title: Lightest Motor in the Range
-row-1-sentence: At 5.3 kg, this top mounted swing door operator is easier to handle and position on site than any other model in the Open Bear lineup — less time on the ladder, less strain on the mounting.
-
-row-2-title: Slim Aluminium Profile
-row-2-sentence: The slim aluminium rail housing sits above the door frame. From the front, it blends into the frame line — no bulky mechanism visible to visitors or residents.
-
-row-3-title: Handles Doors Up to 2m Long
-row-3-sentence: With a max door leaf length of 2m, this model covers a wider door than the side-mounted swing — fitting standard commercial entrance doors and wider residential gate leaves.
-
-row-4-title: Safe at 24 Volts
-row-4-sentence: The motor runs on 24V DC — below the voltage where electric shock becomes a risk. Safe to touch at any point in the door's arc.
-
-row-5-title: Quiet at Full Load
-row-5-sentence: The motor runs at or below 60 dB through every cycle — quieter than a normal conversation at arm's length. No noise complaint from residents or tenants.
-```
+**Features:**
+- 5.3 kg total weight — lightest swing motor in the Open Bear range
+- Slim aluminium rail housing — 330 × 85 × 84.4 mm
+- Mounts above the door frame — not visible from the front
+- Brushed aluminium finish — blends with most frame materials
+- Indoor or sheltered outdoor installation
 
 ---
 
-### [specs-table·var-a]
+## 3. Safe, Smart Access
 
-```
-eyebrow: FULL SPECIFICATIONS
-h2: Top Mounted Swing Door Operator — Complete Spec Table
-subtitle: One model. Every specification verified against factory test data.
+**Layout:** Text left · Image right  
+**Image:** top-mounted-swing-operator-obstacle.jpg  
+**Image alt:** Top mounted swing door operator obstacle avoidance and access methods — anti-pinch sensor
 
-table:
-| Specification        | Value                  |
-|----------------------|------------------------|
-| Motor voltage        | 24V DC                 |
-| Working voltage      | 220VAC ±15% 50Hz       |
-| Motor power          | 60W                    |
-| Rated output torque  | 34 Nm                  |
-| Angular speed        | 40.75°/s               |
-| Max opening angle    | ±90°                   |
-| Max door leaf length | 2m (single door)       |
-| Max door weight      | 200 kg                 |
-| Operating temp       | -25°C to 70°C          |
-| Running noise        | ≤60 dB                 |
-| Thermal protection   | F Class (155°C)        |
-| Equipment weight     | 5.3 kg                 |
-| Body size            | 330 × 85 × 84.4 mm     |
-| Housing material     | Aluminium extrusion    |
-```
+**Eyebrow:** SAFE & SMART ACCESS
 
----
+**H2:** 5-Type Obstacle Detection. Five Ways to Open. Slow Start. Slow Stop.
 
-### [content-faq·var-a]
+**Body:** An electronic sensing system monitors the door arc through every cycle — detecting obstacles in 5 different ways to prevent pinching or collision. If the door hits resistance mid-swing, it rebounds immediately. The slow start and slow stop motion profile means the door accelerates and decelerates gently at both ends — safe, quiet, and smooth every time. The same controller connects to five access methods from day one: button, IC card, microwave sensor, remote control, or face recognition terminal.
 
-```
-eyebrow: COMMON QUESTIONS
-h2: What People Ask Before Buying a Top Mounted Swing Door Operator
+**Safety features:**
+- 5-type obstacle detection — anti-pinch and anti-collision
+- Rebound on resistance — stops and reverses immediately
+- Slow start and slow stop — no slamming at either end of the arc
+- Silent · Smart — quiet operation through every cycle
 
-q1: What kind of doors does this fit?
-a1: It handles swing doors up to 2m long and 200 kg in weight. It is built for light-to-medium commercial and residential swing doors — pedestrian gates, entrance doors, and garden gates. It is not the right choice for heavy entrance gates above 200 kg. For that, look at the heavy-duty swing gate operator.
-
-q2: Is the housing visible once installed?
-a2: The slim aluminium rail profile mounts above the door frame and runs along the door leaf. It is visible from the side but not from the front. The brushed aluminium finish blends with most door frame materials. If a fully concealed installation is the priority, the floor swing door operator is the alternative.
-
-q3: Is it safe around children and pets?
-a3: The motor runs on 24V DC — below the threshold where electric shock is a risk. The operator supports photocell and safety edge integration. If anything breaks the beam or contacts the safety edge mid-cycle, the door stops and reverses.
-
-q4: How loud does it run?
-a4: At or below 60 dB — quieter than a normal conversation at arm's length. Suitable for use in residential entrances, office lobbies, and multi-unit properties where noise matters.
-
-q5: Will it work through a power cut?
-a5: The controller supports battery backup connection. Your door operates normally during a power cut — no manual override required. Ask our team which battery module is compatible with this model.
-
-q6: What temperature range does it cover?
-a6: Operating range is -25°C to 70°C. It covers most residential and light commercial climates worldwide. For installations in extreme cold below -25°C, the heavy-duty swing gate operator is rated to -35°C.
-```
+**Access methods (icon strip):**
+- Button
+- IC Card
+- Microwave Sensor
+- Remote Control
+- Face Machine
 
 ---
 
-### [cta-banner·var-b] — Product Version
+## 4. Handles Doors Up to 2 m Wide.
 
-```
-h2: Ready to Order the Top Mounted Swing Door Operator?
+**Layout:** Image left · Text right  
+**Image:** top-mounted-swing-operator-door-width.jpg  
+**Image alt:** Top mounted swing operator on wide commercial entrance door — 2 m leaf, double door interlock
 
-body: Our engineers can confirm this model fits your door weight and leaf length — and advise on compatible safety sensors before you order.
+**Eyebrow:** DOOR CAPACITY
 
-cta-primary-label: Get a Quote
-cta-primary-url: /get-a-quote?product=top-mounted-swing-door-operator
+**H2:** 34 Nm. The Widest Swing Coverage in the Light-Duty Range.
 
-cta-secondary-label: Download Spec Sheet
-cta-secondary-url: /downloads/top-mounted-swing-operator-spec.pdf
-```
+**Body:** With a maximum door leaf length of 2 m, this top mounted swing door operator covers a wider door than the side-mounted model's 1.5 m — right for standard commercial entrance doors, pedestrian gates, and wider residential garden gates. Fit two units and they link via the double-door interlock system — intelligent linkage keeps both leaves in sync across two modes: Automatic Door and Swing Door.
+
+**Stats:**
+- 34 Nm output torque
+- 40.75°/s angular speed
+- Doors up to 200 kg and 2 m wide
+- ±90° maximum opening angle
+- Double-door interlock — Automatic Door + Swing Door modes
+
+---
+
+## 5. 24V DC. Quiet at 60 dB. Any Climate.
+
+**Layout:** Text left · Image right  
+**Image:** top-mounted-swing-operator-climate.jpg  
+**Image alt:** Top mounted swing door operator installed on commercial glass entrance door — outdoor
+
+**Eyebrow:** SAFE & QUIET
+
+**H2:** 24V DC. 60 dB. Works from -25°C to 70°C Without Modification.
+
+**Body:** The motor runs on 24V DC — well below the voltage where electric shock becomes a risk, even if someone touches the door while it moves. Running noise stays at or below 60 dB — quieter than a normal conversation at arm's length. The operating range covers -25°C to 70°C, making the same unit suitable for office lobbies, residential entrances, and outdoor installations across most climates.
+
+**Features:**
+- 24V DC safety voltage — safe to touch during operation
+- ≤60 dB running noise — suitable for offices, lobbies, residential
+- -25°C to 70°C operating range
+- F Class 155°C thermal protection
+- ≤15°C temperature rise — efficient motor at full load
+
+---
+
+## 6. What's in the Box
+
+**Eyebrow:** WHAT'S IN THE BOX
+
+**H2:** Everything You Need. One Box. Ready to Install.
+
+**Body:** Every Open Bear top mounted swing door operator ships as a complete kit. Nothing needs to be sourced separately before installation day — open the box and the job can start.
+
+**Kit contents:**
+
+| Item | Detail |
+|---|---|
+| Motor unit | Slim aluminium rail body — 5.3 kg, 330 × 85 × 84.4 mm |
+| Controller | Programmable controller — speed, auto-close delay, obstacle response |
+| Remote controls | 2× RF remote controls included |
+| Mounting hardware | All brackets, anchor bolts, and fixings included |
+| English manual | Installation guide, wiring diagram, parameter table |
+
+**Note for developer:** Display as a clean flat-lay list with the product parts image on the right — all components on white background.
+
+---
+
+## 7. Full Specifications
+
+**Eyebrow:** FULL SPECIFICATIONS
+
+**H2:** Top Mounted Swing Door Operator — Complete Spec Sheet
+
+**Subtitle:** One model. Handles single swing doors up to 200 kg and 2 m wide. All figures verified against factory documentation.
+
+| Specification | Value |
+|---|---|
+| Working voltage | 220VAC ±15% / 50Hz |
+| Motor operating voltage | 24V DC |
+| Power of motor | 60W |
+| Rated output torque | 34 Nm |
+| Angular speed | 40.75°/s |
+| Maximum opening angle | ±90° |
+| Maximum door leaf length | 2 m (single door) |
+| Maximum door leaf weight | 200 kg |
+| Housing material | Aluminium extrusion |
+| Obstacle detection | 5-type electronic sensing — anti-pinch, anti-collision |
+| Motion profile | Slow start and slow stop |
+| Double-door interlock | Yes — Automatic Door + Swing Door modes |
+| Thermal protection | F Class 155°C |
+| Operating ambient temperature | -25°C to 70°C |
+| Working environment | Indoor or sheltered outdoor |
+| Running noise | ≤60 dB |
+| Temperature rise | ≤15°C |
+| Equipment weight | 5.3 kg |
+| Body size | 330 × 85 × 84.4 mm |
+| Packing size | [TBC] |
+
+---
+
+## 8. Why Choose Open Bear
+
+**Eyebrow:** WHY OPEN BEAR
+
+**H2:** Six Reasons Buyers Choose Open Bear.
+
+**Layout:** 3 columns × 2 rows card grid. Light background `#FAFAFA`.
+
+**Card 1 — Safe to Touch**  
+The motor runs on 24V DC — well below the voltage where electric shock becomes a risk. Touch the door while it moves. It is safe.
+
+**Card 2 — Any Climate. Same Performance.**  
+Every model runs from -25°C to 70°C or lower. The same unit works in a Canadian winter and an Australian summer without modification.
+
+**Card 3 — Tested Before It Ships**  
+Every unit is tested individually on motor signal equipment before it leaves the factory — checked under full load, not sampled from the batch.
+
+**Card 4 — Quiet at Full Load**  
+Every motor in the range runs at or below 60 dB — quieter than a normal conversation, at any door weight.
+
+**Card 5 — Full Documentation Included**  
+Setup starts the moment the box arrives. Every order includes English manuals, wiring diagrams, and parameter tables — nothing to chase down separately.
+
+**Card 6 — Built In-House, Start to Finish**  
+Designed and built by a 25-person in-house team in Shenzhen — covering R&D, production, and quality. When something needs solving, it gets solved at the factory, not passed to a third party.
+
+---
+
+## 9. FAQ
+
+**Eyebrow:** COMMON QUESTIONS
+
+**H2:** What People Ask Before Buying a Top Mounted Swing Door Operator
+
+**Q1: What doors does this fit?**  
+Single swing doors up to 2 m wide and 200 kg in weight. Right for standard commercial entrance doors, pedestrian gates, office lobbies, and residential garden gates. If your door leaf is heavier than 200 kg or longer than 2 m, the Heavy-Duty Swing Gate Opener handles leaves up to 6 m and 1,200 kg.
+
+**Q2: Is the housing visible once installed?**  
+The slim aluminium rail runs above the door frame — visible from the side, but not from the front. The brushed aluminium finish blends with most door frame materials. If a fully hidden installation is the priority, the Floor Swing Door Operator conceals the entire mechanism below the floor.
+
+**Q3: Can it drive two doors — like a double entrance?**  
+Yes. Fit two units and connect them via the double-door interlock system. Intelligent linkage keeps both leaves in sync across two operating modes — Automatic Door mode and Swing Door mode — to suit different entrance scenarios. Our team can advise on the right configuration before you order.
+
+**Q4: Which access methods does it support?**  
+Five — push button, IC card reader, microwave sensor, the included RF remote controls, and a face recognition terminal. Every method connects to the same controller. You can run one or several simultaneously depending on your security setup.
+
+**Q4: Is it safe around children and pets?**  
+Yes — and it has built-in protection beyond just 24V DC. The electronic sensing system detects obstacles in 5 different ways. If the door hits any resistance mid-swing, it rebounds immediately. The slow start and slow stop motion profile means the door never slams open or shut at full speed. Add a photocell sensor for a full perimeter beam check as an additional layer.
+
+**Q6: How loud is it during operation?**  
+Running noise is rated at 60 dB or below — roughly the level of a normal conversation at arm's length. The slow start and slow stop motion profile eliminates the clunking sound you get with cheaper operators. Suitable for office lobbies, residential entrances, and multi-unit buildings.
+
+**Q7: What happens during a power cut?**  
+The controller supports a battery backup module. With one fitted, the door opens and closes normally through a power cut — no manual override, no getting locked in or out. Ask our team which backup module is compatible when you enquire.
+
+---
+
+## 10. CTA
+
+**H2:** Ready to Order the Right Top Mounted Swing Door Operator?
+
+**Body:** Our team can confirm the unit suits your door's weight and leaf length, advise on compatible access methods and safety sensors, and get you a direct factory quote. No middlemen. No markup.
+
+**CTA Primary:** Get a Quote → /contact  
+**CTA Secondary:** Download Spec Sheet → /downloads/top-mounted-swing-door-operator-spec.pdf
 
 ---
 
 ## Internal Links
 
-| Destination | Anchor Text | Location on Page |
+| Destination | Anchor Text | Location |
 |---|---|---|
-| /gate-operators | gate operators | breadcrumb |
-| /heavy-duty-swing-gate-operator | heavy-duty swing gate operator | FAQ q1 + q6 — heavier gates |
-| /floor-swing-door-operator | floor swing door operator | FAQ q2 — concealed alternative |
-| /contact | Get a Quote | hero CTA primary |
+| /gate-operators | gate operators | Breadcrumb |
+| /heavy-duty-swing-gate-operator | Heavy-Duty Swing Gate Opener | FAQ Q1 |
+| /floor-swing-door-operator | Floor Swing Door Operator | FAQ Q2 |
+| /side-mounted-swing-door-operator | side mounted swing door operator | Related products strip |
 
 ---
 
 ## Notes for Developer
 
-- Hero: product photo right side — show slim aluminium profile clearly. Light background.
-- Specs strip: 4 stats — weight, door weight, door length, noise. Brand Red background, white text.
-- Features list: 5-row proof list. Icons left, copy right. Alternating light/white rows.
-- Specs table: single model, single column. Clean bordered table. Light background.
-- FAQ: accordion. 6 questions. Expanded on desktop, collapsed on mobile.
-- CTA: dark background `#1A1A1A`. Primary Brand Red button. Ghost outline secondary.
-- Breadcrumb: Home > Gate Operators > Top Mounted Swing Door Operator
+- **Hero:** Product image right, copy left. Specs strip on Brand Red background directly below. No CE badge — this model is not CE certified.
+- **Split sections (2–5):** Alternate image-left and text-left rows. Light `#FAFAFA` on odd rows, white on even.
+- **Profile section (2):** Show slim aluminium rail clearly — above-door mounting position preferred over unit-only shot.
+- **Obstacle avoidance (section 3):** Show unit mounted above door frame with safety callouts — slow start/stop, 5-type detection. Use the product installed shot.
+- **Door capacity (section 4):** Double-door render preferred — two units linked on a double entrance. Single-door shot acceptable fallback.
+- **Smart access (section 5):** Image panel shows 5 access method icons in rounded card strip — same layout as other product pages.
+- **What's in the Box (section 6):** Kit list left, product flat-lay photo right. White background.
+- **Specs table (section 7):** Single-model table. Desktop: standard. Mobile: card-style stacked rows. Mark [TBC] packing size clearly.
+- **Why Choose Open Bear (section 8):** 3×2 card grid on `#FAFAFA` background.
+- **FAQ (section 9):** 6 Q&A pairs. Accordion on mobile, stacked on desktop.
+- **CTA (section 10):** Dark `#1A1A1A` background. Primary button Brand Red. Ghost white secondary.
+- **Related products strip:** Below CTA — link to /floor-swing-door-operator and /side-mounted-swing-door-operator.

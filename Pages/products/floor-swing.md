@@ -1,6 +1,6 @@
 # Floor Swing Door Operator
 
-**Status:** DRAFT — PENDING APPROVAL  
+**Status:** APPROVED — READY FOR DEVELOPER  
 **Last updated:** 2026-06-03  
 **Primary keyword:** floor swing door operator  
 **Meta title:** Floor Swing Door Operator | Open Bear (38 chars)  
@@ -16,7 +16,7 @@
 
 **H1:** The Floor Swing Door Operator That Disappears Below Ground.
 
-**Subtext:** This floor swing door operator installs completely below floor level — no arm, no rail, no visible hardware above the surface. Handles gates up to 250 kg. Bluetooth and 4G built in. Obstacle rebound, waterproof housing, and interchangeable shaft heads for any market. Ships complete as a kit.
+**Subtext:** Open Bear's floor swing door operator installs completely below floor level — no arm, no rail, no visible hardware above the surface. Handles gates up to 250 kg and 1.2 m wide on a 24V DC motor. Bluetooth and 4G built in. Obstacle rebound, waterproof housing, and interchangeable shaft heads for any market. Ships complete as a kit — nothing to source separately.
 
 **CTA Primary:** Get a Quote → /contact  
 **CTA Secondary:** Download Spec Sheet → /downloads/floor-swing-door-operator-spec.pdf
@@ -45,7 +45,7 @@
 
 **H2:** The Gate Opens. Nothing Else Shows.
 
-**Body:** The entire mechanism — motor, drive, and stainless steel shaft head — sits inside a recessed housing below the pivot point of the gate. Once installed and commissioned, there is no visible arm, rail, or motor from any angle. The unit supports 90° opening on a single gate leaf or 180° total when two units are fitted to a double gate. This is the cleanest installation finish in the Open Bear swing range, built for properties where visible hardware is not acceptable.
+**Body:** Nothing shows once the job is done. The entire mechanism — motor, drive, and stainless steel shaft head — sits inside a recessed housing below the pivot point of the gate. No visible arm, rail, or motor from any angle after commissioning. A single unit opens one leaf to 90°. Fit two and they drive a double gate to 180° total — the cleanest installation finish in the Open Bear swing range.
 
 **Features:**
 - Full mechanism concealed below floor level
@@ -87,7 +87,7 @@
 
 **H2:** Waterproof. Burst Proof. Anti-Corrosion. Built for What's Under Your Floor.
 
-**Body:** A floor-mounted operator faces conditions no wall-mounted unit does — water ingress, ground pressure, and corrosion from below. The housing is waterproof, burst proof, and anti-corrosion rated. The chamfered design is thick and built to carry gate load without deforming. The integrated die-cast body prevents oil leakage. Closing speed is independently adjustable via the speed control screw — set once during installation, holds through every cycle.
+**Body:** A floor-mounted operator faces conditions no wall-mounted unit does — water ingress, ground pressure, and corrosion from below. Rain, dust, and soil contact won't reach the motor — the housing is waterproof, burst proof, and anti-corrosion rated. Anti-CO protection prevents carbon monoxide build-up in enclosed or basement installations. Integrated die casting seals the body completely, preventing oil leakage. Closing speed adjusts independently via the speed control screw — set once during installation, holds through every cycle after that.
 
 **Protection features:**
 - Waterproof housing — water and dust resistant
@@ -110,7 +110,7 @@
 
 **H2:** 56 Nm. Handles Gates Up to 250 kg. Safe to Touch at Any Point.
 
-**Body:** At 56 Nm, this floor swing door operator moves gates up to 250 kg and 1.2 m wide — the heaviest gate you can run with a fully concealed install. The motor runs on 24V DC — well below the voltage where electric shock becomes a risk. Running noise stays at or below 60 dB — quieter than a normal conversation. The operating range covers -25°C to 70°C, handles high and low temperature extremes without modification.
+**Body:** At 56 Nm, this floor swing door operator moves gates up to 250 kg and 1.2 m wide — the heaviest load you can run with a fully concealed below-floor install. The motor runs on 24V DC — well below the voltage where electric shock becomes a risk, safe to touch at any point in the gate's arc. Running noise stays at or below 60 dB. The operating range covers -25°C to 70°C without modification. Slow start and slow stop motion means the gate never slams at either end — smooth through every cycle.
 
 **Stats:**
 - 56 Nm output torque — 250 kg max gate weight
@@ -211,23 +211,29 @@ Designed and built by a 25-person in-house team in Shenzhen — covering R&D, pr
 
 **H2:** What People Ask Before Buying a Floor Swing Door Operator
 
-**Q1: What does it look like once installed?**  
-Nothing visible above the surface. The mechanism sits completely below the floor in a recessed housing — motor, shaft, and all hardware concealed. Visitors see a gate that opens and nothing else. It is the cleanest installation finish in the Open Bear swing range.
-
-**Q2: Does it need special groundwork?**  
-Yes. Installation requires excavating a recess below the pivot point of the gate. It works with concrete, paving, and most hardscape finishes. The housing is waterproof and the body position adjusts ±5 mm left and right, up and down — your installer can align it precisely without cutting the floor twice. Our team can advise on recess dimensions before you order.
-
-**Q3: What gates can it handle?**  
+**Q1: What gates can it handle?**  
 Single door leaves up to 1.2 m long and 250 kg in weight. Fit two units and they drive a double gate up to 180° total. If your gate leaf is longer than 1.2 m or heavier than 250 kg, the Heavy-Duty Swing Gate Opener handles leaves up to 6 m and 1,200 kg.
 
-**Q4: What happens if something gets in the way while the gate is closing?**  
-The gate rebounds automatically — it stops and reverses immediately without any remote input needed. Add a photocell sensor for a full perimeter beam check and the gate stops the moment the beam is broken at any point in the arc.
+**Q2: Does it need special groundwork?**  
+Yes. Installation requires excavating a recess below the pivot point of the gate. It works with concrete, paving, and most hardscape finishes. The housing is waterproof and the body position adjusts ±5 mm left, right, up, and down — your installer can align it precisely without cutting the floor twice. Our team can advise on recess dimensions before you order.
 
-**Q5: Can I control it from my phone?**  
-Yes. Bluetooth and 4G are both built into the unit. Open or close the gate from anywhere using the app. Your installer can also commission parameters remotely — no need to crouch at the floor housing to adjust settings.
+**Q3: Is it safe around children and pets?**  
+Yes — the motor runs on 24V DC, well below the voltage threshold where electric shock becomes a risk. Even if a child touches the gate housing mid-cycle, the current cannot cause injury. Obstacle rebound stops and reverses the gate the instant it contacts anything in its path. Add a photocell sensor for a full perimeter beam check as an extra layer.
 
-**Q6: What happens during a power cut?**  
+**Q4: How loud is it during operation?**  
+Running noise is rated at 60 dB or below — roughly the level of a normal conversation at arm's length. The slow start and slow stop motion profile means the gate accelerates and decelerates smoothly — no slamming sound at either end of the arc. From inside your home with a closed door, you are unlikely to hear it at all.
+
+**Q5: Will it work in extreme cold or heat?**  
+The operating range is -25°C to 70°C, covering most residential and light commercial climates worldwide. The same unit installs in cold northern winters and hot summer climates without modification or special variants. For environments regularly below -25°C, the Heavy-Duty Swing Gate Opener is rated to -35°C.
+
+**Q6: Can I control it from my phone?**  
+Yes. Bluetooth and 4G are both built into the unit — no extra module needed. Open or close the gate from anywhere using the app. Your installer can also commission every parameter remotely — no need to crouch at the floor housing to adjust settings after the gate is sealed in.
+
+**Q7: What happens during a power cut?**  
 The controller supports a battery backup module. With one fitted, the gate opens and closes normally through a power cut — no manual override, no getting locked in or out. Ask our team which backup module is compatible when you enquire.
+
+**Q8: How does the Open Bear floor swing door operator compare to Nice or FAAC concealed operators?**  
+Open Bear's floor swing door operator runs on a 24V DC servo motor — the same safe-touch voltage standard used across the full Open Bear range. The unit ships complete with controller, remotes, and all mounting hardware as a single kit — no separate accessory orders before installation. At 48W and 56 Nm, it handles gates up to 250 kg and 1.2 m wide. Open Bear manufactures 50,000 units annually from its Shenzhen factory — factory-direct pricing with no reseller in the chain.
 
 ---
 
@@ -235,7 +241,7 @@ The controller supports a battery backup module. With one fitted, the gate opens
 
 **H2:** Ready to Order the Right Floor Swing Door Operator?
 
-**Body:** Our team can confirm the unit suits your gate's weight and leaf length, advise on installation requirements — recess depth, drainage, and compatible safety sensors — and get you a direct factory quote. No middlemen. No markup.
+**Body:** Our team can confirm the unit suits your gate's weight and leaf length, advise on installation requirements — recess depth, drainage, and compatible safety sensors — and get you a direct factory quote. Open Bear produces 50,000 units a year from our Shenzhen factory — gate automation products since 2018. No middlemen. No markup.
 
 **CTA Primary:** Get a Quote → /contact  
 **CTA Secondary:** Download Spec Sheet → /downloads/floor-swing-door-operator-spec.pdf
